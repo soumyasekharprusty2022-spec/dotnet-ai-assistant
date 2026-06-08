@@ -1,0 +1,4002 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 12."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 13."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 14."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 16."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 17."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 18."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 19."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 20."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 24."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 25."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 26."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 27."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 28."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 29."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 30."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 31."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 32."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 33."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 35."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 37."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 38."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 39."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 41."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 42."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 43."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 44."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 45."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 46."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is polymorphism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Polymorphism allows the same interface to represent different underlying forms. Category: CSharp. Example variation 47."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is encapsulation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encapsulation hides implementation details and exposes only necessary members. Category: CSharp. Example variation 48."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a class in C#?"
+      },
+      {
+        "role": "assistant",
+        "content": "A class is a blueprint for creating objects and encapsulates data and behavior. Category: CSharp. Example variation 49."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is inheritance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inheritance allows a class to derive functionality from another class. Category: CSharp. Example variation 50."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 12."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 13."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 14."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 16."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 17."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 18."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 19."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 20."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 24."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 25."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 26."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 27."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 28."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 29."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 30."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 31."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 32."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 33."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 35."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 37."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 38."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 39."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 41."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 42."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 43."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 44."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 45."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 46."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is routing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Routing maps incoming requests to endpoints. Category: ASP.NET Core. Example variation 47."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is model binding?"
+      },
+      {
+        "role": "assistant",
+        "content": "Model binding maps HTTP request data to action parameters. Category: ASP.NET Core. Example variation 48."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Dependency Injection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dependency Injection is a pattern that promotes loose coupling between components. Category: ASP.NET Core. Example variation 49."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Middleware?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middleware components form the HTTP request processing pipeline. Category: ASP.NET Core. Example variation 50."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 12."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 13."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 14."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 16."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 17."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 18."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 19."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 20."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 24."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 25."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 26."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 27."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 28."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 29."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 30."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 31."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 32."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 33."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 35."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 37."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 38."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 39."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 41."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 42."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 43."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 44."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 45."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 46."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Storage provides scalable cloud storage services. Category: Azure. Example variation 47."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Key Vault?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Key Vault securely stores secrets, keys, and certificates. Category: Azure. Example variation 48."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure App Service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure App Service is a managed platform for hosting web applications and APIs. Category: Azure. Example variation 49."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is Azure Functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Functions is a serverless compute service. Category: Azure. Example variation 50."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 12."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 13."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 14."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 16."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 17."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 18."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 19."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 20."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 24."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 25."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 26."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 27."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 28."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 29."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 30."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 31."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 32."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 33."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 35."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 37."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 38."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 39."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 41."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 42."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 43."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 44."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 45."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 46."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What are migrations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Migrations manage schema changes in a database. Category: Entity Framework. Example variation 47."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is lazy loading?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lazy loading loads related data only when accessed. Category: Entity Framework. Example variation 48."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is EF Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Entity Framework Core is an ORM for .NET. Category: Entity Framework. Example variation 49."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is a DbContext?"
+      },
+      {
+        "role": "assistant",
+        "content": "DbContext manages database connections and entity tracking. Category: Entity Framework. Example variation 50."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 1."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 6."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 8."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 10."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 12."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 13."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 14."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 16."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 17."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 18."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 19."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 20."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 21."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 23."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 24."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 25."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 26."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 27."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 28."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 29."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 30."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 31."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 32."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 33."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 34."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 35."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 37."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 38."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 39."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 40."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 41."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 42."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 43."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 44."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 45."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 46."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the practice of designing inputs for AI models. Category: AI. Example variation 47."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is RAG?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrieval-Augmented Generation combines search with LLM responses. Category: AI. Example variation 48."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is machine learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Machine learning enables systems to learn patterns from data. Category: AI. Example variation 49."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert .NET, Azure and AI assistant."
+      },
+      {
+        "role": "user",
+        "content": "What is generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI creates new content such as text, code, images, and audio. Category: AI. Example variation 50."
+      }
+    ]
+  }
+]
