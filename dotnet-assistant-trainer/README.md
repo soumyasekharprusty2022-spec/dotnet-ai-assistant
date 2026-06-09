@@ -2,6 +2,10 @@
 
 Fine-tune Microsoft's Phi-3-mini-4k-instruct model on .NET/Azure domain knowledge using Unsloth + LoRA, then export to Ollama for local inference.
 
+## 📐 System Architecture
+
+See [**ARCHITECTURE.md**](ARCHITECTURE.md) for a detailed system architecture diagram and complete data pipeline documentation.
+
 ## Project Highlights
 
 - Fine-tuned Phi-3-mini using Unsloth + LoRA
