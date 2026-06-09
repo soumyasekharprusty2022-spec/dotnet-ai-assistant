@@ -36,8 +36,6 @@ Fine-tune Microsoft's Phi-3-mini-4k-instruct model on .NET/Azure domain knowledg
 ![alt text](Images/Java.png)
 ![alt text](Images/DotNet.png)
 
-[screenshot]
-
 ## Hardware Requirements
 
 | Component | Minimum | Used in this project |
