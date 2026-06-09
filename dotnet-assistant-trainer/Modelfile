@@ -1,4 +1,4 @@
-FROM d:/AI_Projects/Unsloth_Phi3_Ollama/dotnet-ai-assistant/ollama_phi_chat_gguf/phi-3-mini-4k-instruct.Q2_K.gguf
+FROM d:/AI_Projects/Unsloth_Phi3_Ollama/dotnet-ai-assistant/dotnet-assistant-trainer/ollama_phi_chat_gguf/phi-3-mini-4k-instruct.Q2_K.gguf
 
 PARAMETER temperature 0.3
 PARAMETER top_p 0.9
