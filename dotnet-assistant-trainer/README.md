@@ -2,7 +2,41 @@
 
 Fine-tune Microsoft's Phi-3-mini-4k-instruct model on .NET/Azure domain knowledge using Unsloth + LoRA, then export to Ollama for local inference.
 
+## Project Highlights
+
+- Fine-tuned Phi-3-mini using Unsloth + LoRA
+- Trained on custom .NET and Azure knowledge dataset
+- Exported model to Ollama GGUF format
+- Runs locally on RTX 3050 Laptop GPU (4GB VRAM)
+- Built a domain-specific AI assistant for Microsoft technologies
+- REST API integration through Ollama
+
 ---
+
+
+## Screenshots
+
+### Training Process
+
+![alt text](Images/Training.png)
+
+### Ollama Model Registration
+
+![alt text](Images/OllamaReg.png)
+
+### Model Running in Terminal
+
+![alt text](Images/Ollamamodels.png)
+
+### Sample Question & Answer in Terminal
+
+![alt text](Images/QA.png)
+
+### Sample Question & Answer using One Web
+![alt text](Images/Java.png)
+![alt text](Images/DotNet.png)
+
+[screenshot]
 
 ## Hardware Requirements
 
